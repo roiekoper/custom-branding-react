@@ -1,0 +1,7 @@
+.container {
+  display: grid;
+  grid: 1fr 1fr / 48% 48%;
+  gap: 35px 35px;
+  justify-content: center;
+  align-content: center;
+}
